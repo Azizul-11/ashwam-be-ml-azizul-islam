@@ -214,7 +214,7 @@ With more time or additional tooling, this system could be extended to:
 - Make lexicons configurable
 
 
-Notes
+## Notes
 
 This project is implemented as a local CLI utility only.
 No frontend or API layer is included, as the focus is on backend parsing logic, clarity of design, and deterministic behavior.
